@@ -106,7 +106,7 @@ See instructions below.
 A `Makefile` is provided both as an interface for easy use and as 
 a tutorial for building custom images.
 A `docker-compose.yaml` file is also provided as a basic MLOps system.
-It provies an interactive development experience using Docker.
+It provides an interactive development experience using Docker.
 
 The speed gains from this template come from the following factors:
 1. Using the latest version of CUDA and associated libraries (cuDNN, cuBLAS, etc.).
